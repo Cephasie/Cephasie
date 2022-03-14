@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cephasie
+- 👀 I’m interested in web development.
+- 🌱 I’m currently taking courses on HTML, CSS and JS.
+- 💞️ I’m looking to collaborate on projects as soon as possible.
+- 📫 How to reach me hembacephas@gmail.com
